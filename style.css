@@ -1,0 +1,21 @@
+#wrapper {
+	text-align: center;
+}
+
+#list {
+	max-width: 200px;
+	margin: 0 auto;
+	transform: translateX(-20px);
+}
+li {
+	border: 2px solid #000;
+	display: block;
+	margin: 10px auto;
+}
+
+
+textarea {
+	margin: 0 auto;
+	display: block;
+	resize: none;
+}
